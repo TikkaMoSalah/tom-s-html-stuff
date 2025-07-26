@@ -1,0 +1,15 @@
+table, tr, td {border: 1px solid black; border-collapse: collapse; width: 1500px;}
+h1 {font-family: 'Times New Roman', Times, serif; font-weight: bold; color: black;}
+h2 {font-family: Arial, Helvetica, sans-serif; color: black; font-weight: bold; white-space: nowrap;}
+p  {font-family: Arial, Helvetica, sans-serif; color: black; text-align: center;}
+.left {text-align: left;}
+.center {text-align: center;}
+.right {text-align: right;}
+.row {display: flex; justify-content: space-between;}
+.boldy {font-weight: bold;}
+.first {height: 20px;}
+.Group1 {background-color: tomato;}
+.Group2 {background-color: lightgreen;}
+.Group3 {background-color: lightblue;}
+.kurnas {background-color: yellow;}
+a {color: black; text-decoration: none;}
